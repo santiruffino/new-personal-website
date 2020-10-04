@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  flex: 1;
+  flex-flow: column;
+  height: 100%;
+  background: lightgray;
+}
+
+.content {
+  flex: 1 1 auto;
+  background: darkcyan;
+}
+
+.section {
+  display: flex;
+  height: 50%;
+  border: 1px black;
+  flex: 1;
+  background: darkred;
+}
