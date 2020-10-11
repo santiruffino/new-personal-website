@@ -63,7 +63,7 @@ p {
 }
 
 .box {
-  background: #424242;
+  background: black;
 
 }
 
@@ -92,7 +92,6 @@ p {
 }
 
 .fade-in-left {
-  background: #424242;
   animation-duration: 1s;
   animation-name: slideinLeft;
 }
