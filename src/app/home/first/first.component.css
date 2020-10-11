@@ -2,7 +2,16 @@
   display: flex;
   width: 100%;
   height: 100%;
-  background: cyan;
+}
+
+.buttons {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.button {
+  background: #3E6CF7;
 }
 
 .dibujo {
@@ -12,6 +21,8 @@
   width: auto;
   height: auto;
   max-width: 85%;
+  background: #3E6CF7;
+  border-radius: 50%;
 }
 
 h1 {
@@ -52,8 +63,7 @@ p {
 }
 
 .box {
-  background-color: rgb(245, 215, 160);
-  border: 2px solid rgb(116, 113, 113);
+  background: #424242;
 
 }
 
@@ -63,5 +73,36 @@ p {
   }
   .box {
     max-height: 50%;
+  }
+}
+
+.fade-in-right {
+  animation-duration: 1s;
+  animation-name: slideinRight;
+}
+
+@keyframes slideinRight {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+.fade-in-left {
+  background: #424242;
+  animation-duration: 1s;
+  animation-name: slideinLeft;
+}
+
+@keyframes slideinLeft {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
   }
 }
