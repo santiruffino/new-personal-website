@@ -1,19 +1,24 @@
 .full {
   min-height: 100%;
-  background: #424242;
+  background: black;
 }
 
 .main {
   display: flex;
   margin: auto;
-  background: #424242;
+  background: black;
 }
 
 .card-container {
   padding: 16px;
 }
 
+.title {
+  color: black;
+}
+
 .example-card {
+  background: #d9d9d9;
   max-width: 400px;
 }
 

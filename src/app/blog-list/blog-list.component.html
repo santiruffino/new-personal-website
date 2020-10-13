@@ -4,7 +4,7 @@
 <!--    <div *ngFor="let num of [1,2,3,4,5,6,7]" class='card-container' fxFlex='33%' fxFlex.xs="100%">-->
       <mat-card class='example-card mat-elevation-z5'>
         <mat-card-header>
-          <mat-card-title>
+          <mat-card-title class='title'>
             {{ post.title }}
 <!--            HOLA MUNDO-->
           </mat-card-title>
@@ -12,9 +12,9 @@
             {{ nowDate | date: 'MMM d, y' }}
           </mat-card-subtitle>
         </mat-card-header>
-        <img mat-card-image src="/assets/only-santi.png" style='background: cyan' alt="Photo of a Shiba Inu">
+        <img mat-card-image src="/assets/shiba2(1).jpg" alt="Photo of a Shiba Inu">
         <mat-card-content>
-          <p> {{ post.description }}</p>
+<!--          <p> {{ post.description }}</p>-->
 <!--          <p>Hola! Soy una descripción</p>-->
         </mat-card-content>
       </mat-card>
