@@ -10,19 +10,36 @@
 }
 
 .card-container {
+  /*height: 250px;*/
+  /*background: #d9d9d9;*/
+  /*background: cyan;*/
   padding: 16px;
 }
 
 .title {
+  text-align: center;
   color: black;
 }
 
 .example-card {
-  background: #d9d9d9;
+  background: cyan;
   max-width: 400px;
 }
 
 .example-header-image {
   background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
   background-size: cover;
+}
+
+.box{
+  flex: 1 0 calc(25% - 10px);
+  margin: 5px;
+  background: #E9D2FF;
+  max-width: 100%;
+}
+
+.box:after{
+  content: '';
+  display: block;
+  padding-bottom: 100%;
 }
