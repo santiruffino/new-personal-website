@@ -1,14 +1,21 @@
 <div class='full'>
   <div class="main" fxFlex="70%" fxFlex.xs="90%" fxLayout="row wrap">
     <div *ngFor="let post of posts$ | async" class='card-container' fxFlex='33%' fxFlex.xs="100%">
-<!--    <div *ngFor="let num of [1,2,3,4,5,6,7]" class='card-container' fxFlex='33%' fxFlex.xs="100%">-->
-<!--      <div class='example-card'>-->
-<!--        <h1> {{ post.title }}</h1>-->
-<!--      </div>-->
-      <div class="box box6">
-        <h1 class='title'>{{ post.title }}</h1>
-        <h4>{{ post.date | date: 'MMM d, y'}}</h4>
-      </div>
+      <mat-card class="example-card">
+        <mat-card-header>
+          <div mat-card-avatar class="example-header-image"></div>
+          <mat-card-title>{{ post.title }}</mat-card-title>
+          <mat-card-subtitle>{{ post.date | date: 'MMM d, y'}}</mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Photo of a Shiba Inu">
+<!--        <mat-card-content>-->
+<!--          <p>-->
+<!--            The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan.-->
+<!--            A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was originally-->
+<!--            bred for hunting.-->
+<!--          </p>-->
+<!--        </mat-card-content>-->
+      </mat-card>
     </div>
   </div>
 </div>
