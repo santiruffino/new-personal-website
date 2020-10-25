@@ -27,7 +27,6 @@
 }
 
 h1 {
-  color: white;
   align-self: center;
   text-align: center;
   font-size: 4em;
@@ -35,7 +34,6 @@ h1 {
 }
 
 p {
-  color: white;
   align-self: center;
   align-items: center;
   font-size: 2em;
@@ -64,7 +62,7 @@ p {
 }
 
 .box {
-  background: black;
+  background: whitesmoke;
 
 }
 
