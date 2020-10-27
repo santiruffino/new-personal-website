@@ -5,3 +5,14 @@ h1 {
   border-radius: 5px;
   width: fit-content;
 }
+
+.full {
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  background: #E9D2FF;
+  width: 70%;
+  margin: auto;
+}

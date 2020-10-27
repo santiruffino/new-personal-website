@@ -1,29 +1,8 @@
-<!--
-<div class='full'>
-  <div class="main" fxLayout="column wrap">
-    <div *ngFor="let post of posts$ | async" class='card-container'>
-      <mat-card class="example-card mat-elevation-z8">
-        <mat-card-header>
-          <div mat-card-avatar class="example-header-image"></div>
-          <mat-card-title>{{ post.title }}</mat-card-title>
-          <mat-card-subtitle>{{ post.date | date: 'MMM d, y'}}</mat-card-subtitle>
-        </mat-card-header>
-        <img mat-card-image src="./assets/santi-sticker.jpg" alt="Photo of a Shiba Inu">
-        <mat-card-content>
-          <p>
-            {{ post.description }}
-          </p>
-        </mat-card-content>
-      </mat-card>
-    </div>
-  </div>
-</div>
--->
 <div class='full'>
   <div class="masonry-demo">
     <ngx-masonry [options]="masonryOptions" [ordered]="true">
       <div ngxMasonryItem *ngFor="let post of posts$ | async" class='card-container'>
-        <mat-card class="example-card mat-elevation-z8">
+        <mat-card class="example-card mat-elevation-z8" [routerLink]="post.route">
           <mat-card-header>
             <div mat-card-avatar class="example-header-image"></div>
             <mat-card-title>{{ post.title }}</mat-card-title>
@@ -38,6 +17,5 @@
         </mat-card>
       </div>
     </ngx-masonry>
-    <h2 *ngIf="limit >= 100">No More Images</h2>
   </div>
 </div>
