@@ -6,16 +6,18 @@ import { BlogListComponent } from './blog-list.component';
 import { FlexModule } from '@angular/flex-layout';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
+import { NgxMasonryModule } from 'ngx-masonry';
 
 
 @NgModule({
   declarations: [BlogListComponent],
-  imports: [
-    CommonModule,
-    BlogListRoutingModule,
-    FlexModule,
-    MatCardModule,
-    MatButtonModule
-  ]
+    imports: [
+        CommonModule,
+        BlogListRoutingModule,
+        FlexModule,
+        MatCardModule,
+        MatButtonModule,
+        NgxMasonryModule
+    ]
 })
 export class BlogListModule { }

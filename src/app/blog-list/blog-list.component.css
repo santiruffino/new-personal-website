@@ -1,7 +1,11 @@
 .full {
-  height: 90vh;
-  width: 100vw;
+  min-height: 100%;
   background: whitesmoke;
+}
+
+.masonry-demo {
+  margin: 0 auto;
+  width: 100%;
 }
 
 .main {
@@ -29,7 +33,7 @@
   background-size: cover;
 }
 
-.box{
+.box {
   flex: 1 0 calc(25% - 10px);
   margin: 5px;
   background: #E9D2FF;
@@ -37,8 +41,12 @@
   height: 100%;
 }
 
-.box:after{
+.box:after {
   content: '';
   display: block;
   padding-bottom: 100%;
+}
+
+.masonry-item {
+  width: 200px;
 }
