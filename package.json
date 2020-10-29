@@ -8,6 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+    "fullBuild": "ng build --prod && npm run scully && npm run scully:serve",
     "scully": "scully",
     "scully:serve": "scully serve"
   },
