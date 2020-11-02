@@ -2,6 +2,7 @@
 title: Un mes trabajando desde casa
 date: 2020-04-21T00:00:00.000Z
 published: true
+image: work-from-home-covid
 ---
 
 El 16/04/2020 se cumplio un mes de mi encierro. 

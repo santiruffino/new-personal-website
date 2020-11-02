@@ -1,7 +1,9 @@
 ---
-title: Comunidades IT
+title: 'Comunidades IT'
 date: 2020-05-30T00:00:00.000Z
-published: true
+published: false
+slugs:
+    - ___UNPUBLISHED___kgzydzcu_yCau3bzcbD4luoZtHstv5eVNdbDbGrGl
 ---
 
 Hola! Hace un tiempo no escribo, pero encontre un tema que me parece que esta tomando mucha relevancia en los ultimos tiempos, sobre todo con cuarentena...

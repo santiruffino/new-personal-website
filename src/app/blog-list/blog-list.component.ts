@@ -24,8 +24,6 @@ export class BlogListComponent implements OnInit {
 
   ngOnInit(): void {
     this.nowDate = Date.now();
-
-    debugger;
     this.posts$ = this.scully.available$.pipe(
       map(routeList => {
         routeList.sort((a, b) => a.date > b.date ? -1 : 1);

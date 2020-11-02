@@ -2,6 +2,7 @@
 title: Yo, programador. Parte 1
 date: 2019-06-20T23:45:00.000Z
 published: true
+image: yo-programador-1
 ---
 
 # Yo, programador
@@ -20,7 +21,7 @@ Toda blanca (no, no era una Mac), Pentium 4, monitor culón, mouse con bolita y 
 La prendí, sin entender nada, pero ansioso. Arranco, y lo primero, y único, que pude hacer fue abrir "Paint".
 Años después (hace un año), me entere que eso no era Paint, sino la versión "libre" de Linux. Sep, tenia Linux y no lo sabia, que inocente...
 
-Mi trayectoria con la comptuadora no fue muy interesante, una instalación de Windows ME por un técnico, mucho Paint (ahora si, el real), y después de un tiempo, un poco de juegos.
+Mi trayectoria con la computadora no fue muy interesante, una instalación de Windows ME por un técnico, mucho Paint (ahora si, el real), y después de un tiempo, un poco de juegos.
 Solo conocía, y mi computadora corría el CS 1.6 con sus parches V23 y V21 para jugar No-steam y con mis amigos Bots.
 El primero, obvio que sin uso por falta de internet. Alguna que otra partida de Age of Empires y algunas de GTA Vice City (Con un cuaderno lleno de trucos).
 

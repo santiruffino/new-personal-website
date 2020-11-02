@@ -2,6 +2,7 @@
 title: Work from Home. Mi primera vez
 date: 2019-09-30T13:50:00.000Z
 published: true
+image: work-from-home
 ---
 
 Hola, he vuelto! Pero esta vez, con un articulo fuera de la serie de Yo Programador (va a volver).

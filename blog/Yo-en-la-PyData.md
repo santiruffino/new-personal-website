@@ -2,6 +2,7 @@
 title: Yo, en la PyData 2019
 date: 2019-10-08T00:33:00.000Z
 published: true
+image: pydata
 ---
 
 Hola! Hoy vengo a contarles sobre mi experiencia en la PyData Cordoba 2019.

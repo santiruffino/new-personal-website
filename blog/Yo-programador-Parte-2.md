@@ -2,6 +2,7 @@
 title: Yo, programador. Parte 2
 date: 2019-08-10T22:10:00.000Z
 published: true
+image: yo-programador-2
 ---
 
 # Yo, programador
