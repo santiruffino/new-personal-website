@@ -5,6 +5,8 @@ published: true
 image: work-from-home-covid
 ---
 
+# Un mes trabajando desde casa
+
 El 16/04/2020 se cumplio un mes de mi encierro. 
 Cuando volvi de BsAs por mis vacaciones, en el trabajo era opcional el trabajo remoto, pero por precaucion, decidi tomarlo y arrancar con la cuarentena por voluntad propia.
 Al principio, tuve sentimientos encontrados. Siempre fui una persona social, y nunca me volvio loco la idea de trabajar remoto. Me gusta ver gente, hablar, reirme, distraerme. Por lo que pensar en trabajar solo, era algo totalmente raro.

@@ -5,6 +5,8 @@ published: true
 image: work-from-home
 ---
 
+# Work from home. Mi primera vez
+
 Hola, he vuelto! Pero esta vez, con un articulo fuera de la serie de Yo Programador (va a volver).
 Esta vez, quiero contarles sobre una experiencia laboral nueva.
 

@@ -13,7 +13,7 @@ import { NgxMasonryOptions } from 'ngx-masonry/lib/ngx-masonry-options';
 export class BlogListComponent implements OnInit {
   public nowDate: any;
   public masonryOptions: NgxMasonryOptions = {
-    gutter: 20,
+    gutter: 10
   };
 
 

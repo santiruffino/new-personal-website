@@ -5,6 +5,8 @@ published: true
 image: pydata
 ---
 
+# Yo, en la PyData
+
 Hola! Hoy vengo a contarles sobre mi experiencia en la PyData Cordoba 2019.
 Para los que no saben que es, **PyData** es una serie de conferencias que reúne a especialistas en Data Science y otras herramientas de análisis de datos para compartir ideas y aprender entre todos.
 Y como lo habran adivinado... Es de Python :D)

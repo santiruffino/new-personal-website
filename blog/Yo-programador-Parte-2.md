@@ -5,9 +5,9 @@ published: true
 image: yo-programador-2
 ---
 
-# Yo, programador
+# Yo, programador (II)
 
-Hola, I'm back :D.
+Hola, I'm back 😁
 
 Vamos a continuar con la pequeña serie de "Yo, programador".
 

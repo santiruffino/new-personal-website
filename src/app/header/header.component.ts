@@ -17,10 +17,6 @@ export class HeaderComponent implements OnInit {
       label: 'Blog',
       icon: 'article',
       href: '/blog'
-    }, {
-      label: 'Talks',
-      icon: 'mic',
-      href: '/talks'
     }
 
   ];

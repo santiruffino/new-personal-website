@@ -5,7 +5,7 @@ published: true
 image: yo-programador-1
 ---
 
-# Yo, programador
+# Yo, programador (I)
 
 Hola, mi nombre es Santiago Ruffino y soy developer (nada de Front ni Back, solo me busco la vida).
 
