@@ -69,7 +69,7 @@ Patricio es miembro de Open Data Cordoba, aparte de trabajar como Software Devel
 
 En esta charla pudimos aprender y ver la cantidad de datos abiertos que tenemos disponible a dos clicks de distancia, y que muchos de nosotros no sabemos siquiera que existen. Sin ir mas lejos, el gobierno de la Nacion tiene actualmente 981 datasets de diversas categorias. Informacion de transito, catastro, judicial, presupuestos, resultados y conteos electorales, etc. Y todo en paginas oficiales y para descargar y empezar a usarlos con solo 3 lineas de codigo (en Python, obviamente).
 
-> Pagina oficial para ver los datos.
+> Página oficial para ver los datos.
 [https://datos.gob.ar/]
 
 ### A better PyData ecosystem, one commit at a time
@@ -83,25 +83,25 @@ Actualmente, Pandas tiene un equipo que se encarga de mentorear a personas NO ma
 Primero que nada, la oportunidad de hablar con gente de otro nivel, que nunca hubiese imaginado que existia, o que podria ser capaz de hablar con ellos.
 
 Estuve tomando cerveza, comiendo y charlando en un bar con Vladan que es quien se encarga de la parte de Machine Learning en Spotify, Nemanja que trabaja en el proyecto de Uber Self-Driving, Julie, que es lead de Growth de Pinterest, y con Ivana que es Data Scientist para un equipo de la NBA.
-Y todos ellos estuvieron predipuestos con la mejor onda, contestando a cualquier pregunta, en el momento que sea.
+Y todos ellos estuvieron predispuestos con la mejor onda, contestando a cualquier pregunta, en el momento que sea.
 
 Pude preguntarle a Vladan porque Spotify no te deja poner _No me gusta_ a una lista o una recomendacion que ves en la aplicacion. El tipo de Uber dijo que es imposible un auto que se maneje solo en Buenos Aires y que cuente que tienen una replica de ciudad en su fabrica para entrenar a sus autos en un entorno lo mas parecido a la realidad posible (si, es en escala real. Con autos de verdad, edificios de verdad).
 
 Y aparte, entender que son personas, como cualquier otra. Que tienen laburos que todos imaginamos en algun momento, en empresas que parecen lejanas, pero son un desarrollador como cualquiera de nosotros.
-Sin ir mas lejos, hablando con Julie (Pinterest) me mostro que se habia comprado dos mates para llevar a su trabajo, pero que no sabia como ir a comprar Yerba Mate a un kiosco (ella creia que era un te).
+Sin ir más lejos, hablando con Julie (Pinterest) me mostró que se había comprado dos mates para llevar a su trabajo, pero que no sabia como ir a comprar Yerba Mate a un kiosco (ella creía que era un te).
 
-Cuando me tuve que ir, pase por un kiosco a comprar un paquete de yerba mate, para poder regalarselo, junto con un sticker de MeetupJS. Y ella estaba extremadamente feliz por algo que me a mi me tomo 15 minutos, y me costo $80 pesos argentinos.
+Cuando me tuve que ir, pase por un kiosco a comprar un paquete de yerba mate, para poder regalarselo, junto con un sticker de MeetupJS. Y ella estaba extremadamente feliz por algo que me a mí me tomo 15 minutos, y me costo $80 pesos argentinos.
 
-Son pequeños momentos que uno nunca piensa que van a llegar, pero cuando lo hacen, hay que disfrutarlos, no tenerlos miedos. Son programadores, como nosotros. En empresas mas grandes? Si. Proyectos gigantes? Si. Pero estoy seguro de que pasaron por el mismo lugar que nosotros, y han hecho las mismas preguntas que nosotros.
+Son pequeños momentos que uno nunca piensa que van a llegar, pero cuando lo hacen, hay que disfrutarlos, no tenerlos miedos. Son programadores, como nosotros. En empresas más grandes? Si. Proyectos gigantes? Si. Pero estoy seguro de que pasaron por el mismo lugar que nosotros, y han hecho las mismas preguntas que nosotros.
 
-Les dejo un par de fotos de yapa para que vean el evento :D
+Les dejo un par de fotos de yapa para que vean el evento 😁
 
-![Yo, con Ivana, Julie y otro amigo :D](/static/Photos/PyData_Photo1.jpg)
-> De izq a der: Un amigo, Ivana Seric, Julie Trier, Yo :D
+![Yo, con Ivana, Julie y otro amigo](/assets/Photos/PyData_Photo1.jpg)
+> De izq a der: Un amigo, Ivana Seric, Julie Trier, Yo
 
-![Yo, con Vladam y Nemanja :D](/static/Photos/PyData_Photo5.jpg)
+![Yo, con Vladam y Nemanja](/assets/Photos/PyData_Photo5.jpg)
 > De izq a der: Vladan, Yo, Nemanja
 
-![Yo, Julie :D](/static/Photos/PyData_Photo4.jpg)
+![Yo, Julie](/assets/Photos/PyData_Photo4.jpg)
 > Julie de Pinterest con su paquete de yerba mate 🧉
 

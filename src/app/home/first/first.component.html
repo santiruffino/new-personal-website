@@ -2,33 +2,19 @@
   <div class="column-1 box fade-in-left">
     <h1>👋</h1>
     <h1>Soy Santi Ruffino</h1>
-    <p>Fullstack Developer</p>
-    <p>Googleador furioso de CSS</p>
+    <h2>Fullstack Developer</h2>
+    <h2>Googleador furioso de CSS</h2>
     <div class='buttons'>
-      <a href='https://github.com/santiruffino'>
-        <button mat-raised-button color='primary' class='button'>
-          <mat-icon >
-            <img src="./assets/github-brands.svg" alt='Github Icon'>
-          </mat-icon>
-          Github
-        </button>
-      </a>
-      <a href='https://twitter.com/santiruffinodev'>
-        <button mat-raised-button color='primary' class='button'>
-          <mat-icon >
-            <img src="./assets/twitter-brands.svg" alt='Twitter Icon'>
-          </mat-icon>
-          Twitter
-        </button>
-      </a>
-      <a href='https://www.linkedin.com/in/santiago-javier-ruffino/'>
-        <button mat-raised-button color='primary' class='button'>
-          <mat-icon >
-            <img src="./assets/linkedin-brands.svg" alt='LinkedIn Icon'>
-          </mat-icon>
-          LinkedIn
-        </button>
-      </a>
+      <div  *ngFor='let social of socialsNetworks'>
+        <a href='{{ social.link }}'>
+          <button mat-raised-button color='primary' class='button'>
+            <mat-icon style='padding-right: 5px'>
+              <img src="./assets/{{ social.logo }}" alt='{{ social.alt }}'>
+            </mat-icon>
+            {{ social.name }}
+          </button>
+        </a>
+      </div>
     </div>
   </div>
   <div class="column-2 box fade-in-right">

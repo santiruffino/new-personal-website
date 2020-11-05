@@ -1,3 +1,15 @@
+.full {
+  height: 100%;
+  width: 100%;
+  background: whitesmoke;
+}
+
+.content {
+  background-color:rgb(240,240,240);
+  width: 80%;
+  margin: auto;
+}
+
 h1 {
   display: block;
   margin-left: auto;
@@ -16,19 +28,15 @@ p {
 }
 
 img {
+  height: auto;
+  width: 100%;
+  max-width: 720px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.full {
-  height: 100%;
-  width: 100%;
-  background: whitesmoke;
-}
-
-.content {
-  background-color:rgb(240,240,240);
-  width: 70%;
-  margin: auto;
+blockquote {
+  font-size: 12px;
+  font-style: oblique;
 }
