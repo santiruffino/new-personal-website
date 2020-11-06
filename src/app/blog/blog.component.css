@@ -6,7 +6,6 @@
 
 .content {
   background-color:rgb(240,240,240);
-  width: 80%;
   margin: auto;
 }
 
@@ -19,12 +18,14 @@ h1 {
   padding: 15px;
   border-radius: 5px;
   width: fit-content;
-  font-size: 30px;
+  font-family: 'Itim';
+  font-size: 40px;
 }
 
 p {
   font-size: 18px;
   text-align: justify;
+  margin: 0 12px 12px 12px;
 }
 
 img {

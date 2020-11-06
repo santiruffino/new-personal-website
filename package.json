@@ -28,6 +28,7 @@
     "@scullyio/init": "^1.0.1",
     "@scullyio/ng-lib": "^1.0.0",
     "@scullyio/scully": "^1.0.0",
+    "@scullyio/scully-plugin-google-analytics": "^1.0.0",
     "masonry-layout": "^4.2.2",
     "ngx-masonry": "^10.0.6",
     "rxjs": "~6.5.4",
