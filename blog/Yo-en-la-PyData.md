@@ -40,7 +40,7 @@ Pero sirvio bastante para poder entender un poco mas como se manejan los datos e
 
 ## Charlas
 
-### The evolution of basketball with data science
+## The evolution of basketball with data science
 Speaker: **Ivana Seric**
 
 Ella es Data Scientist para el equipo de basketball 'Philadelphia 76ers'.
@@ -52,9 +52,9 @@ Tardan aproximadamente 3 dias en conseguir los datos de las camaras, y despues c
 
 Explico brevemente como usan los datos los equipos, y principalmente que clases de decisiones se toman basadas en esos datos, y cuales se terminan decidiendo sobre el desarrollo del juego.
 
-### Homepage Personalization Behind-the-Scenes
+## Homepage Personalization Behind-the-Scenes
 Speaker: **Vladan Radosavljevic**
-
+    
 Vladan es Machine Learning Chapter Lead en **Spotify**.
 
 Se encargo de explicar toda la infraestructura, y como procesan todos los datos de artistas que tienen, junto con la informacion de los usuarios, para hacer que cada vez que abrimos Spotify, tengamos un Home lo mas relevante posible.
@@ -62,7 +62,7 @@ Un dato que tiro al aire, es que manejan cerca de **5000 procesos POR SEGUNDO**.
 
 ![Wooo](https://media.giphy.com/media/aWPGuTlDqq2yc/giphy.gif)
 
-### Python <3 Open Data
+## Python ❤️ Open Data
 Speaker: **Patricio del Boca**
 
 Patricio es miembro de Open Data Cordoba, aparte de trabajar como Software Developer en Datopian.
@@ -72,7 +72,7 @@ En esta charla pudimos aprender y ver la cantidad de datos abiertos que tenemos 
 > Página oficial para ver los datos.
 [https://datos.gob.ar/]
 
-### A better PyData ecosystem, one commit at a time
+## A better PyData ecosystem, one commit at a time
 Speaker: **Marc Garcia**
 
 En esta charla, Marc nos explico como trabajan desde la comunidad de Pandas para hacer que la gente que colabora al proyecto, sienta que forma parte y como intentan llegar a gente de diversas culturas.

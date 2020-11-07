@@ -5,8 +5,8 @@
     <h2>Fullstack Developer</h2>
     <h2>Googleador furioso de CSS</h2>
     <div class='buttons'>
-      <div  *ngFor='let social of socialsNetworks'>
-        <a href='{{ social.link }}'>
+      <div *ngFor='let social of socialsNetworks'>
+        <a href='{{ social.link }}' target="_blank">
           <button mat-raised-button color='primary' class='button'>
             <mat-icon style='padding-right: 5px'>
               <img src="./assets/{{ social.logo }}" alt='{{ social.alt }}'>

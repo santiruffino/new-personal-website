@@ -9,12 +9,12 @@ image: yo-programador-1
 
 Hola, mi nombre es Santiago Ruffino y soy developer (nada de Front ni Back, solo me busco la vida).
 
-Este el primer articulo de una serie que quiero llamar "Yo, programador", donde la idea es poder contar un poco de mis inicios con la computadora y mi vida como programador. Seguramente tambien habra una sección con artículos mas "técnicos", pero eso en un futuro (ojala cercano).
+Este el primer articulo de una serie que quiero llamar "Yo, programador", donde la idea es poder contar un poco de mis inicios con la computadora y mi vida como programador. Seguramente también habrá una sección con artículos más "técnicos", pero eso en un futuro (ojala cercano).
 
 Siempre me gustaron las computadoras, o mejor dicho, me gusta jugar a la computadora. La primera PC que tuve fue en primer grado (2004).
 Toda blanca (no, no era una Mac), Pentium 4, monitor culón, mouse con bolita y teclado `mecánico`.
 
-![alt text](/static/pc-pentium-4.jpg)
+![alt text](/assets/Photos/pc-pentium-4.jpg)
 
 >Si, algo parecido a esto.
 
@@ -25,31 +25,31 @@ Mi trayectoria con la computadora no fue muy interesante, una instalación de Wi
 Solo conocía, y mi computadora corría el CS 1.6 con sus parches V23 y V21 para jugar No-steam y con mis amigos Bots.
 El primero, obvio que sin uso por falta de internet. Alguna que otra partida de Age of Empires y algunas de GTA Vice City (Con un cuaderno lleno de trucos).
 
-Después de un tiempo, llego el dia, **Internet**. Un módem que parecía un huevo aplastado, Arnet con Telecom y un conexión de 256kbps.
-De repende, Internet Explorer se convirtió en mi mejor amigo, y Flash en lo mejor del mundo (no ~~sabia~~ se que es, pero todos los juegos lo usaban).
+Después de un tiempo, llego el día, **Internet**. Un módem que parecía un huevo aplastado, Arnet con Telecom y un conexión de 256kbps.
+De repente, Internet Explorer se convirtió en mí mejor amigo, y Flash en lo mejor del mundo (no ~~sabia~~ sé que es, pero todos los juegos lo usaban).
 
 Muchos juegos y muchas partidas, hicieron que mi computadora dijera **BASTA** y su fuente murió.
 Sin saberlo, los técnicos nos chamuyaban diciendo que había que cambiarle el procesador, la RAM, el disco duro, etc.
 Todos estos eran gastos que mis papás no podían ni querían afrontar. De esta forma, mi amor por la computadora *se tomo un tiempo*...
 
-Luego de varios años, mi papá se compro una notebook 'para trabajar'. De mas esta decir que la transición 'Trabajo' => 'Juegos para mi' fue practicamente instantanea.
+Luego de varios años, mi papá compró una notebook 'para trabajar'. De más esta decir que la transición 'Trabajo' => 'Juegos para mí' fue prácticamente instantánea.
 
-Gracias a esa notebook y a mi edad (ya estaba en la secundaria), fue que empece a ver un poco de 'programacion'. HTML y CSS fueron mis primeros contactos.
-Paginas con fondo rojo, títulos `<h1>` con letras verdes, párrafos `<p>`con letras blancas y una que otra imagen acomodada en cualquier lado, pixelada y/o repetido (normalmente sin intención).
+Gracias a esa notebook y a mi edad (ya estaba en la secundaria), fue que empece a ver un poco de 'programación'. HTML y CSS fueron mis primeros contactos.
+Páginas con fondo rojo, títulos `<h1>` con letras verdes, párrafos `<p>`con letras blancas y una que otra imagen acomodada en cualquier lado, pixelada y/o repetido (normalmente sin intención).
 Usando la mejor y única IDE que conocía en ese momento, **Block de Notas**. Sin plugins, sin nada.
 
 Nada de JS, porque no sabia que era y ni siquiera lo había escuchado nombrar.
 
 después de eso, empece a ser **FullStack** y empece a trabajar con **JAVA**.
-No pregunten por qué, solo se que ese fue el primer lenguaje serio que 'trabajé'.
+No pregunten por qué, solo sé que ese fue el primer lenguaje serio que 'trabajé'.
 Muy lindas las clases, muy lindo algo que era `public static void main (strings [] args {}` y su `system.out.println("Hola mundo")`.
 Todo fue muy divertido, hasta que quise usar entradas de usuario para trabajar con la clase `Scanner`.
 Nunca pude hacer ningún código que usara esa clase, así que mis códigos nunca fueron dinámicos, siempre tenias que modificar código fuente para que haga ALGO distinto.
 
-![alt text](/static/java_code.png)
+![alt text](/assets/Photos//java_code.png)
 
->Mi código era muy similiar a esto.
+>Mi código era muy similar a esto.
 
-Ese ataque de programar me duro un par de meses, luego lo abadone para dedicarme de lleno al *Frontend*. Mi proyecto mas grande, era hacer una pagina para descargar discos de musica gratis, usando solo HTML y CSS. después de mucho trabajo UI y UX (preguntas a compañeros de la secundaria), empece a trabajar en el proyecto. Todo el 'HOME' era un titulo con `<h1>` y después una tabla GIGANTE donde cada celda era un disco para descargar. Una vez que subí todos los discos a MegaUpload, me puse en marcha para hacer los hipervinculos y esas cosas. Antes de poder hacer andar UN botón, Megaupload ya me había dado de baja a todos los discos por Copyright. ESA fue la gota que me hizo abandonar el proyecto, y con eso, mis ganas de 'programar'...
+Ese ataque de programar me duro un par de meses, luego lo abandone para dedicarme de lleno al *Frontend*. Mi proyecto más grande, era hacer una página para descargar discos de musica gratis, usando solo HTML y CSS. después de mucho trabajo UI y UX (preguntas a compañeros de la secundaria), empece a trabajar en el proyecto. Todo el 'HOME' era un titulo con `<h1>` y después una tabla GIGANTE donde cada celda era un disco para descargar. Una vez que subí todos los discos a MegaUpload, me puse en marcha para hacer los hipervinculos y esas cosas. Antes de poder hacer andar UN botón, Megaupload ya me había dado de baja a todos los discos por Copyright. ESA fue la gota que me hizo abandonar el proyecto, y con eso, mis ganas de 'programar'...
 
 Por ahora, vamos a dejar el articulo acá. El próximo, voy a hablar sobre como terminé estudiando Ing. en Sistemas, y como termine dejando en segundo año.
