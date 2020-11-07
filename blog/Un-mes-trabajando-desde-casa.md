@@ -18,6 +18,7 @@ Y bueno, arranque. 16 de marzo volví a trabajar. Sprint recién iniciado (me ha
 La primera semana tengo que admitir que fui totalmente no-productivo. 
 En casa nadie entendía que estaba trabajando (interrupciones constantes) y mi cerebro tampoco. Agarraba el celular cada 2 minutos, lei Twitter, Facebook (si, ahora volví a Facebook), Instagram y Discord.
 
+
 Pero bueno, de a poco las cosas fueran 'acomodándose'. Tener que decir todo el tiempo 'No puedo, estoy trabajando' fue la forma de que entiendan que realmente estaba trabajando (Bueno, eso y poner un lindo gif de código en el segundo monitor).
 
 Pero la parte difícil seguía siendo que YO entendiera que estaba trabajando. La ficha me cayo recién cuando estaba en la segunda semana del sprint (los sprints duran 2 semanas) y me di cuenta que no iba a llegar a cerrar mis tickets.
