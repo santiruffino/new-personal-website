@@ -8,7 +8,7 @@
 .buttons {
   display: flex;
   width: 100%;
-  height: 45px;
+  height: 40px;
   justify-content: space-evenly;
 }
 
@@ -20,10 +20,10 @@
 .dibujo {
   align-self: center;
   display: block;
-  max-height:95%;
+  max-height:90%;
   width: auto;
   height: auto;
-  max-width: 85%;
+  max-width: 80%;
   background: #2DBAE0;
   border-radius: 50%;
 }

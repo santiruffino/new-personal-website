@@ -23,10 +23,7 @@ Cuando note que nadie se anotaba, vi la oportunidad para ir, y de paso quedar bi
 
 Asi que de tres entradas disponibles, se terminaron usando dos. Fuimos mi Team Lead y yo, los tres dias.
 
-
-
-
-## Dia 1
+# Dia 1. Workshops
 
 Cuando llegue alla, note que hacia mucho tiempo no tocaba Python, pero bueno, hice una repasada rapida, instale Jupyter y me considere listo para un dia lleno de workshops (Esto fue el viernes).
 La mayoria de las charlas NO estaban pensadas para ser workshops y eran mas para escuchar que para intentar hacer en tu computadora.
@@ -38,10 +35,10 @@ La unica charla que considero que se acerco a ser un workshop, fue una charla de
 
 Pero sirvio bastante para poder entender un poco mas como se manejan los datos en Python, como usar de forma correcta las librerias, y ver que funciones podemos 'combinar' para explotar al maximo Python, Pandas y datos.
 
-## Charlas
+# Dia 2. Charlas
 
 ## The evolution of basketball with data science
-Speaker: **Ivana Seric**
+### Speaker: **Ivana Seric**
 
 Ella es Data Scientist para el equipo de basketball 'Philadelphia 76ers'.
 
@@ -53,7 +50,7 @@ Tardan aproximadamente 3 dias en conseguir los datos de las camaras, y despues c
 Explico brevemente como usan los datos los equipos, y principalmente que clases de decisiones se toman basadas en esos datos, y cuales se terminan decidiendo sobre el desarrollo del juego.
 
 ## Homepage Personalization Behind-the-Scenes
-Speaker: **Vladan Radosavljevic**
+### Speaker: **Vladan Radosavljevic**
     
 Vladan es Machine Learning Chapter Lead en **Spotify**.
 
@@ -63,7 +60,7 @@ Un dato que tiro al aire, es que manejan cerca de **5000 procesos POR SEGUNDO**.
 ![Wooo](https://media.giphy.com/media/aWPGuTlDqq2yc/giphy.gif)
 
 ## Python ❤️ Open Data
-Speaker: **Patricio del Boca**
+### Speaker: **Patricio del Boca**
 
 Patricio es miembro de Open Data Cordoba, aparte de trabajar como Software Developer en Datopian.
 
@@ -73,7 +70,7 @@ En esta charla pudimos aprender y ver la cantidad de datos abiertos que tenemos 
 [https://datos.gob.ar/]
 
 ## A better PyData ecosystem, one commit at a time
-Speaker: **Marc Garcia**
+### Speaker: **Marc Garcia**
 
 En esta charla, Marc nos explico como trabajan desde la comunidad de Pandas para hacer que la gente que colabora al proyecto, sienta que forma parte y como intentan llegar a gente de diversas culturas.
 Actualmente, Pandas tiene un equipo que se encarga de mentorear a personas NO masculinas (no solo femenina) para participar de forma activa en los proyectos.
