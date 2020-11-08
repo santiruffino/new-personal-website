@@ -61,6 +61,4 @@ Termine trabajar en toda la UI de mis cambios, y me concentre en dejar lo más l
 
 Y asi, entre cosa y cosa, se termino mi dia de WFH...
 
-_Adjunto el gif con el que me despedí por el Slack del trabajo_
-
 ![YAY(2)](https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif)
